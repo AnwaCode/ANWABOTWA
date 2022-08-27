@@ -1,0 +1,28 @@
+{
+"ownerNumber": ["6285162822778@s.whatsapp.net"],
+"ownerName": ["anwa"],
+"botName": "Anwabot",
+"packname": "Anwabot",
+"author": "© Anwa",
+"sessionName": "session",
+"pathimg": "./media/hinata.jpg",
+
+"medsos": {
+"wa": "https://wa.me/6285162822778",
+"instagram": "https://instagram.com/anwanetwork"
+},
+
+"donasi": {
+"dana": "085162822778",
+"AN_dana": "Wahyudi",
+"gopay": "085162822778",
+"AN_gopay": "Wahyudi"
+},
+
+"gamewaktu": 90,
+"limitCount": 25,
+"gcount": {
+"prem": 35,
+"user": 15
+}
+}
